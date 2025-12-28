@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankito45" alt="ankito45" /></a> </p>
 
-- 🔭 I’m currently studying **Data Engineering**
+- 🔭 I’m currently learning **Data Engineering & Devops**
 
 - 🌱 I’m currently learning **Hadoop, Apache xspark and Snowflake**
 
